@@ -2,8 +2,8 @@
 - 🔭 I’m currently working on Grupo G-Trigueiro
 - 🌱 I’m currently learning Laravel
 - 📚 Education:
- - Analysis and systems development
- - Postgraduate in Cross-Platform Mobile Application Projects
+  - Analysis and systems development
+  - Postgraduate in Cross-Platform Mobile Application Projects
 <!--
 
 **EdmilsonMedeiros/EdmilsonMedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
