@@ -13,19 +13,20 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
 <br>
 </div>
-
 <!---->
 
 - 🔭 I’m currently working on Grupo G-Trigueiro
+
 - 🌱 I’m currently learning:
    - Laravel
    - VueJS
-   
+
 - 📚 Education:
   - Analysis and systems development
   - Postgraduate in Cross-Platform Mobile Application Projects
-
+  
 <!---->
+<a href="https://www.linkedin.com/in/edmilson-medeiros-9a3454125/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="80"/></a> 
 
 <div align="center">
   <a href="https://github.com/EdmilsonMedeiros">
