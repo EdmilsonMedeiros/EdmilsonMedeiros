@@ -41,7 +41,7 @@
           height: 32px;
           border-radius: 16px;
           background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=edmilson-medeiros-9a3454125" target="_blank">Follow on LinkedIn</a>
+          font-family: 'SF Pro Text', Helvetica, sans-serif;" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=edmilson-medeiros-9a3454125" target="_blank">Follow on LinkedIn</a>
 <!--
 <a href="https://www.linkedin.com/in/edmilson-medeiros-9a3454125/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="80"/></a> -->
 
