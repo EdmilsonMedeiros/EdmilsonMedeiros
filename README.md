@@ -29,19 +29,7 @@
   
 <!---->
 
-<a class="libutton" style="display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: 'SF Pro Text', Helvetica, sans-serif;" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=edmilson-medeiros-9a3454125" target="_blank">Follow on LinkedIn</a>
+<a class="libutton" style="" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=edmilson-medeiros-9a3454125" target="_blank">Follow on LinkedIn</a>
 <!--
 <a href="https://www.linkedin.com/in/edmilson-medeiros-9a3454125/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="80"/></a> -->
 
