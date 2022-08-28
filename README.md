@@ -29,7 +29,7 @@
   
 <!---->
 
-<button type='button'><a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=edmilson-medeiros-9a3454125" target="_blank">Follow on LinkedIn</a></button>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=edmilson-medeiros-9a3454125" target="_blank"><button type='submit'>Follow on LinkedIn</button></a>
 <!--
 <a href="https://www.linkedin.com/in/edmilson-medeiros-9a3454125/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="80"/></a> -->
 
