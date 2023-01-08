@@ -21,12 +21,3 @@
 
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=edmilson-medeiros-9a3454125" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="80"/></a>
 
-<!-- <div align="center">
-  <a href="https://github.com/EdmilsonMedeiros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdmilsonMedeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdmilsonMedeiros&layout=compact&langs_count=7&theme=dracula"/>
-</div> -->
-
-<!---->
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
