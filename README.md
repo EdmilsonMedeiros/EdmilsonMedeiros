@@ -5,7 +5,7 @@
 </head>
 <body>
           
-<h3 class="bg-success text-lght p-5">Web Full Stack Developer</h3>
+<h3 style="background: linear-gradient(to bottom, #00cc99 0%, #339966 100%); padding: 1em; border-radius: 1em;">Web Full Stack Developer</h3>
 
 <p>Graduação na área de desenvolvimento de software e pós-graduado na mesma área. Experiência com suporte técnico, Desenvolvimento Web e atualmente Desenvolvedor de Sistemas no Grupo G-Trigueiro.</p>
 <h3>Skills</h3>
