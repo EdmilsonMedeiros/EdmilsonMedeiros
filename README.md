@@ -17,13 +17,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> -->
-          
-<br>
 </div>
 
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=edmilson-medeiros-9a3454125" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="80"/></a>
 
-<br>
 <p>Graduação na área de desenvolvimento de software e pós-graduado na mesma área. Experiência com suporte técnico, Desenvolvimento Web e atualmente Desenvolvedor de Sistemas no Grupo G-Trigueiro.</p>
 <h3>Skills</h3>
 <ul>
@@ -36,3 +32,5 @@
           <li>Bootstrap</li>
           <li>JQuery</li>
 </ul>
+<br>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=edmilson-medeiros-9a3454125" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="80"/></a>
