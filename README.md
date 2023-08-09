@@ -7,7 +7,7 @@
           
 <h3>Web Full Stack Developer</h3>
 
-<p>Graduação na área de desenvolvimento de software e pós-graduado na mesma área. Experiência com suporte técnico, Desenvolvimento Web e atualmente Desenvolvedor de Sistemas no Grupo G-Trigueiro.</p>
+<p>Graduação na área de desenvolvimento de software e pós-graduado na mesma área. Experiência com suporte técnico, Desenvolvimento Web e atualmente Desenvolvedor de Sistemas Full Stack no Grupo G-Trigueiro.</p>
 <h3>Skills</h3>
 <ul>
           <li>HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="12"/></li>
