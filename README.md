@@ -20,6 +20,7 @@
           <li>JQuery <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="12"/></li>
           <li>Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="12"/></li>
           <li>Apache2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="12"/></li>
+          <li>Git e GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="12"/></li>
           
 </ul>
 <br>
