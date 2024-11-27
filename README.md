@@ -15,15 +15,16 @@ produtiva em equipe. Comprometido com a melhoria contínua, busco constantemente
 minhas habilidades técnicas e adotar boas práticas de desenvolvimento para garantir o sucesso e a
 qualidade dos projetos em que atuo.
 </p>
+<h5>Alguns dos projetos dos quais participo:</h5>
 <p>
-          DOBANK
+          DOBANK:
 Participei do desenvolvimento do DoBank, um banco digital voltado para pessoas jurídicas,
 contribuindo ativamente em implementações no back-end, front-end e no aplicativo disponível na
 Play Store. Fui responsável pela criação e documentação de 100% da API utilizada atualmente.
 Link: https://dobank.com.br
 </p>
 <p>
-          G MARKET
+          G MARKET:
 Desenvolvi o G Market, do Grupo G-Trigueiro, uma plataforma para criação de cartazes voltada
 para supermercados, que simplifica e padroniza o processo, ajudando clientes a produzir materiais
 de forma rápida e eficiente e integrado com o ERP do supermercado que possibilita a importação
