@@ -6,7 +6,7 @@
 <body>
           
 <h3>Web Full Stack Developer</h3>
-<i>OBS.: A maioria dos projetos com os quais contribuo são privados, sendo assi, meus commits não dizem muito. </i>
+<i>OBS.: A maioria dos projetos com os quais contribuo são privados, sendo assim, meus commits não dizem muito. </i>
 <p><br>
           Desenvolvedor com ampla experiência na criação e manutenção de soluções para a web e mobile,
 abrangendo todas as etapas do ciclo de vida de aplicações, desde a implementação até o deploy.
