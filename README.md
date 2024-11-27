@@ -32,7 +32,7 @@ automática dos produtos da base de dados do cliente. Meu papel incluiu o desenv
 manutenção do sistema, garantindo usabilidade e desempenho. Link:
 https://gmarketsolutions.com.br
 </p>
-<h3>Skills</h3>
+<!-- <h3>Skills</h3> -->
 <ul>
 <!--           <li>HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="12"/></li>
           <li>CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="12"/></li>
