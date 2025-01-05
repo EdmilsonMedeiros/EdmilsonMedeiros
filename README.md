@@ -34,4 +34,4 @@ Link: [gmarketsolutions.com.br](https://gmarketsolutions.com.br)
 - <img src="https://simpleicons.org/icons/git.svg" width="20" height="20" alt="GIT"> GIT
 - <img src="https://simpleicons.org/icons/github.svg" width="20" height="20" alt="GitHub"> GitHub
 
-[<img src="https://simpleicons.org/icons/linkedin.svg" width="80" alt="LinkedIn">](https://www.linkedin.com/in/edmilson-jarbson-9a3454125)
+[<img src="[https://simpleicons.org/icons/linkedin.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg)" width="80" alt="LinkedIn">](https://www.linkedin.com/in/edmilson-jarbson-9a3454125)
