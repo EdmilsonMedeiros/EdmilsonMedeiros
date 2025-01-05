@@ -11,7 +11,7 @@
 <br>
 <h3>Sobre mim:</h3>
 <p>
-          Desenvolvedor com ampla experiência na criação e manutenção de soluções para a web e mobile,
+          Desenvolvedor com ampla experiência na criação e manutenção de soluções para a web e mobile no front e no backend,
 abrangendo todas as etapas do ciclo de vida de aplicações, desde a implementação até o deploy.
 Possuo habilidade para identificar necessidades, propor soluções eficientes e colaborar de forma
 produtiva em equipe. Comprometido com a melhoria contínua, busco constantemente aprimorar
