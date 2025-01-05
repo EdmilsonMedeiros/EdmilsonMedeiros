@@ -14,7 +14,6 @@
 <body>
     <h3>Web Full Stack Developer</h3>
     <i>OBS.: A maioria dos projetos com os quais contribuo são privados, sendo assim, meus commits não dizem muito. </i>
-
     <br>
     <h3>Sobre mim:</h3>
     <p>
@@ -42,7 +41,6 @@
         manutenção do sistema, garantindo usabilidade e desempenho. Link:
         <a href="https://gmarketsolutions.com.br">gmarketsolutions.com.br</a>
     </p>
-
     <h3>Skills</h3>
     <ul class="inline-list">
         <li><i class="fab fa-php"></i> PHP</li>
