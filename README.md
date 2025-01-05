@@ -1,5 +1,4 @@
 # Web Full Stack Developer 
-<a class="libutton" href="https://www.linkedin.com/in/edmilson-jarbson-9a3454125" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50"/></a>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" height="20" alt="php"> PHP
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="20" height="20" alt="laravel"> Laravel
@@ -35,4 +34,4 @@ Link: [gmarketsolutions.com.br](https://gmarketsolutions.com.br)
 
 
 <br>
-<a class="libutton" href="https://www.linkedin.com/in/edmilson-jarbson-9a3454125" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="80"/></a>
+<a class="libutton" href="https://www.linkedin.com/in/edmilson-jarbson-9a3454125" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30"/></a>
