@@ -38,21 +38,21 @@ https://gmarketsolutions.com.br
 </p>
 <!-- <h3>Skills</h3> -->
 <ul style="list-style-type: none; padding: 0;">
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/php.svg" width="20" height="20" color="blue" alt="PHP"> PHP
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/laravel.svg" width="20" height="20" color="blue" alt="Laravel"> Laravel
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/vuejs.svg" width="20" height="20" color="blue" alt="VueJS"> VueJS
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/html5.svg" width="20" height="20" color="blue" alt="HTML5"> HTML
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/css3-alt.svg" width="20" height="20" color="blue" alt="CSS3"> CSS
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/js.svg" width="20" height="20" color="blue" alt="JavaScript"> JavaScript
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/bootstrap.svg" width="20" height="20" color="blue" alt="Bootstrap"> Bootstrap
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/jquery.svg" width="20" height="20" color="blue" alt="jQuery"> jQuery
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/tailwindcss.svg" width="20" height="20" color="blue" alt="Tailwind"> Tailwind
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/react.svg" width="20" height="20" color="blue" alt="React"> React Native
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/database.svg" width="20" height="20" color="blue" alt="Database"> MySQL
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/database.svg" width="20" height="20" color="blue" alt="Database"> PostgreSQL
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linux.svg" width="20" height="20" color="blue" alt="Linux"> Linux
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code-branch.svg" width="20" height="20" color="blue" alt="Git"> GIT
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20" height="20" color="blue" alt="GitHub"> GitHub
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="20" height="20"/> PHP
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="20" height="20"/> Laravel
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="20" height="20"/> VueJS
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="20" height="20"/> HTML
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="20" height="20"/> CSS
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> JavaScript
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="20" height="20"/> Bootstrap
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="20" height="20"/> jQuery
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="20" height="20"/> Tailwind
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" height="20"/> React Native
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20"/> MySQL
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="20" height="20"/> PostgreSQL
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> Linux
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="20" height="20"/> GIT
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="20" height="20"/> GitHub
 </ul>
 <br>
 <a class="libutton" href="https://www.linkedin.com/in/edmilson-jarbson-9a3454125" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="80"/></a>
