@@ -10,7 +10,7 @@
 
 <br>
 <h3>Sobre mim:</h3>
-<p><br>
+<p>
           Desenvolvedor com ampla experiência na criação e manutenção de soluções para a web e mobile,
 abrangendo todas as etapas do ciclo de vida de aplicações, desde a implementação até o deploy.
 Possuo habilidade para identificar necessidades, propor soluções eficientes e colaborar de forma
