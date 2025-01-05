@@ -1,4 +1,4 @@
-## Web Full Stack Developer 
+## Full Stack Developer 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" height="20" alt="php"> PHP
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="20" height="20" alt="laravel"> Laravel
