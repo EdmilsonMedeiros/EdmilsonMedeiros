@@ -2,6 +2,7 @@
 <html>
 <head>
           <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
           
@@ -36,20 +37,22 @@ manutenção do sistema, garantindo usabilidade e desempenho. Link:
 https://gmarketsolutions.com.br
 </p>
 <!-- <h3>Skills</h3> -->
-<ul>
-<!--           <li>HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="12"/></li>
-          <li>CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="12"/></li>
-          <li>JS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="12"/></li>
-          <li>PHP <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="12"/></li>
-          <li>Laravel <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="12" /></li>
-          <li>VueJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="12"/></li>
-          <li>Bootstrap <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="12" /></li>
-          <li>JQuery <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="12"/></li>
-          <li>Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="12"/></li>
-          <li>React Native <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="12"/></li>
-          <li>Apache2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="12"/></li>
-          <li>Git e GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="12"/></li> -->
-          
+<ul style="list-style-type: none; padding: 0;">
+    <li style="display: inline-block; margin-right: 10px;"><i class="fab fa-php"></i> PHP</li>
+    <li style="display: inline-block; margin-right: 10px;"><i class="fab fa-laravel"></i> Laravel</li>
+    <li style="display: inline-block; margin-right: 10px;"><i class="fab fa-vuejs"></i> VueJS</li>
+    <li style="display: inline-block; margin-right: 10px;"><i class="fab fa-html5"></i> HTML</li>
+    <li style="display: inline-block; margin-right: 10px;"><i class="fab fa-css3-alt"></i> CSS</li>
+    <li style="display: inline-block; margin-right: 10px;"><i class="fab fa-js"></i> Javascript</li>
+    <li style="display: inline-block; margin-right: 10px;"><i class="fab fa-bootstrap"></i> Bootstrap</li>
+    <li style="display: inline-block; margin-right: 10px;"><i class="fab fa-jquery"></i> jQuery</li>
+    <li style="display: inline-block; margin-right: 10px;"><i class="fab fa-tailwind"></i> Tailwind</li>
+    <li style="display: inline-block; margin-right: 10px;"><i class="fab fa-react"></i> React Native</li>
+    <li style="display: inline-block; margin-right: 10px;"><i class="fas fa-database"></i> MySQL</li>
+    <li style="display: inline-block; margin-right: 10px;"><i class="fas fa-database"></i> PostgreSQL</li>
+    <li style="display: inline-block; margin-right: 10px;"><i class="fab fa-linux"></i> Linux</li>
+    <li style="display: inline-block; margin-right: 10px;"><i class="fas fa-code-branch"></i> GIT</li>
+    <li style="display: inline-block; margin-right: 10px;"><i class="fab fa-github"></i> GitHub</li>
 </ul>
 <br>
 <a class="libutton" href="https://www.linkedin.com/in/edmilson-jarbson-9a3454125" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="80"/></a>
