@@ -25,7 +25,7 @@ Desenvolvedor com ampla experiência na criação e manutenção de soluções p
 ### Alguns dos projetos dos quais participo:
 
 **DOBANK:**  
-Participei do desenvolvimento do DoBank, um banco digital voltado para pessoas jurídicas, contribuindo ativamente em implementações no back-end, front-end e no aplicativo disponível na Play Store. Fui responsável pela criação e documentação de 100% da API utilizada atualmente.  
+Participei do desenvolvimento do DoBank, um app de pagamentos voltado para pessoas jurídicas, contribuindo ativamente em implementações no back-end, front-end(web) e no aplicativo disponível na Play Store. Fui responsável pela criação e documentação de 100% da API utilizada atualmente.  
 Link: [dobank.com.br](https://dobank.com.br)
 
 **G MARKET:**  
