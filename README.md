@@ -18,21 +18,21 @@ Link: [gmarketsolutions.com.br](https://gmarketsolutions.com.br)
 
 ## Skills
 
-- <img src="https://simpleicons.org/icons/php.svg" width="20" height="20" alt="PHP"> PHP
-- <img src="https://simpleicons.org/icons/laravel.svg" width="20" height="20" alt="Laravel"> Laravel
-- <img src="https://simpleicons.org/icons/vuejs.svg" width="20" height="20" alt="VueJS"> VueJS
-- <img src="https://simpleicons.org/icons/html5.svg" width="20" height="20" alt="HTML5"> HTML
-- <img src="https://simpleicons.org/icons/css3.svg" width="20" height="20" alt="CSS3"> CSS
-- <img src="https://simpleicons.org/icons/javascript.svg" width="20" height="20" alt="JavaScript"> JavaScript
-- <img src="https://simpleicons.org/icons/bootstrap.svg" width="20" height="20" alt="Bootstrap"> Bootstrap
-- <img src="https://simpleicons.org/icons/jquery.svg" width="20" height="20" alt="jQuery"> jQuery
-- <img src="https://simpleicons.org/icons/tailwindcss.svg" width="20" height="20" alt="Tailwind"> Tailwind
-- <img src="https://simpleicons.org/icons/react.svg" width="20" height="20" alt="React"> React Native
-- <img src="https://simpleicons.org/icons/mysql.svg" width="20" height="20" alt="MySQL"> MySQL
-- <img src="https://simpleicons.org/icons/postgresql.svg" width="20" height="20" alt="PostgreSQL"> PostgreSQL
-- <img src="https://simpleicons.org/icons/linux.svg" width="20" height="20" alt="Linux"> Linux
-- <img src="https://simpleicons.org/icons/git.svg" width="20" height="20" alt="GIT"> GIT
-- <img src="https://simpleicons.org/icons/github.svg" width="20" height="20" alt="GitHub"> GitHub
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" height="20" alt="php"> PHP
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="20" height="20" alt="laravel"> Laravel
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20" height="20" alt="vuejs"> VueJS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" alt="html5"> HTML
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" alt="css3"> CSS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" alt="javascript"> JavaScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" height="20" alt="bootstrap"> Bootstrap
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="20" height="20" alt="jquery"> jQuery
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20" height="20" alt="tailwind"> Tailwind
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" alt="react"> React Native
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20" alt="mysql"> MySQL
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20" alt="postgresql"> PostgreSQL
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" alt="linux"> Linux
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20" alt="git"> GIT
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" alt="github"> GitHub
 
 <br>
 <a class="libutton" href="https://www.linkedin.com/in/edmilson-jarbson-9a3454125" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="80"/></a>
