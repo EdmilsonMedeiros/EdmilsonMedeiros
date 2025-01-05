@@ -20,7 +20,7 @@ Link: [gmarketsolutions.com.br](https://gmarketsolutions.com.br)
 
 - <img src="https://simpleicons.org/icons/php.svg" width="20" height="20" alt="PHP"> PHP
 - <img src="https://simpleicons.org/icons/laravel.svg" width="20" height="20" alt="Laravel"> Laravel
-- <img src="https://simpleicons.org/icons/vue.svg" width="20" height="20" alt="VueJS"> VueJS
+- <img src="https://simpleicons.org/icons/vuejs.svg" width="20" height="20" alt="VueJS"> VueJS
 - <img src="https://simpleicons.org/icons/html5.svg" width="20" height="20" alt="HTML5"> HTML
 - <img src="https://simpleicons.org/icons/css3.svg" width="20" height="20" alt="CSS3"> CSS
 - <img src="https://simpleicons.org/icons/javascript.svg" width="20" height="20" alt="JavaScript"> JavaScript
