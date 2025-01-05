@@ -7,7 +7,7 @@
         .inline-list li {
             display: inline-block;
             margin-right: 10px;
-            vertical-align: middle; /* para alinhar os ícones e o texto */
+            vertical-align: middle;
         }
     </style>
 </head>
