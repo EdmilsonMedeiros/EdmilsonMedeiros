@@ -34,4 +34,4 @@ Link: [gmarketsolutions.com.br](https://gmarketsolutions.com.br)
 
 
 <br>
-<a class="libutton" href="https://www.linkedin.com/in/edmilson-jarbson-9a3454125" target="_blank" style="font-wheight: bold;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30"/> LinkedIn</a>
+<a class="libutton" href="https://www.linkedin.com/in/edmilson-jarbson-9a3454125" target="_blank" style="font-weight: bold;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30"/>LinkedIn</a>
