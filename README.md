@@ -15,7 +15,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" alt="linux"> Linux
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20" alt="git"> GIT
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" alt="github"> GitHub
-
 **OBS.: A maioria dos projetos com os quais contribuo são privados, sendo assim, meus commits não dizem muito.**
 
 ## Sobre mim:
